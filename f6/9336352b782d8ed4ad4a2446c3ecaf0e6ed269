@@ -1,0 +1,19 @@
+README.md
+  s_26dfef25e101b5::t_561aafe069d38e 6-10,14-15,17-22,26-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "f69336352b782d8ed4ad4a2446c3ecaf0e6ed269",
+  "prompts": {},
+  "sessions": {
+    "s_26dfef25e101b5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e78cc-b6be-7491-ae77-39aea88d2d9a",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Ali-Xiyao <aliwang0126@gmail.com>"
+    }
+  }
+}
