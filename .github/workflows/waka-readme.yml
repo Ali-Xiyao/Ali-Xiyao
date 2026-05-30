@@ -2,6 +2,9 @@ name: Waka Readme
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/waka-readme.yml"
   schedule:
     - cron: "30 18 * * *"
 
